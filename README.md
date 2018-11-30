@@ -10,17 +10,17 @@ Chat Admin Command
 
 ### Installation
 
-1. Place the ***init.c***
+1. Download and Place the ***init.c***
 
 	> \DayZServer\mpmissions\dayzOffline.chernarusplus
   
   
-2. Ingame
+2. Ingame, login in the chat with your administrator password
 
 	> #login yourpasswordAdmin
  
  
-3. Ingame
+3. Ingame, Enter the commands in the chat
 
 	> !heal !offroad !camera…
   
